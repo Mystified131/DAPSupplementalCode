@@ -15,7 +15,8 @@ for ctr in range (res):
 
 print("")
 
-##Algorithm-- like a plan for how to make the logic to have the computer write "Hello, world!" 20 times in the console/
+##Algorithm-- Write a plan for how to make the logic to have the computer write "Hello, world!" 20 times in the console.
+
 ##What is your algorithm?
 
 ##Now, can you go ahead and make the code for this algorithm?
