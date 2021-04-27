@@ -32,6 +32,8 @@ print("Hello, world!")
 
 #type exactly: "git push origin main"
 
+#if this fails, try "git push origin master"
+
 #this should post the code to the Git Hub cloud
 
 #now go to your browser, to the repo on Git Hub, and see if the python code is there
