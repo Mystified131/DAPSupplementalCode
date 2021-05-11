@@ -9,6 +9,7 @@ print(bdict)
 
 #You can call a value by it's key
 print(bdict["one"])
+print(bdict["three"])
 
 #You can create a dictionary using a loop or other data process
 cdict = {}
